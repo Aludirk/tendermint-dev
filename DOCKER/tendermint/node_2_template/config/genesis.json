@@ -1,0 +1,39 @@
+{
+  "genesis_time": "2018-05-29T06:04:59.138267155Z",
+  "chain_id": "test-chain",
+  "validators": [
+    {
+      "pub_key": {
+        "type": "AC26791624DE60",
+        "value": "SH3Va12oHkCgQL1SaSp6X2lug8+T+iSqDFU22KQpX3s="
+      },
+      "power": 100,
+      "name": "test-node-1"
+    },
+    {
+      "pub_key": {
+        "type": "AC26791624DE60",
+        "value": "RGP2MURcaxVMZByha4E9fdiutMOKGR5tB2C0AongJj0="
+      },
+      "power": 100,
+      "name": "test-node-2"
+    },
+    {
+      "pub_key": {
+        "type": "AC26791624DE60",
+        "value": "xNcDv743oOjQpcGr3DEGjH2N6sMpOOTQfOkOfLF7Uv0="
+      },
+      "power": 100,
+      "name": "test-node-3"
+    },
+    {
+      "pub_key": {
+        "type": "AC26791624DE60",
+        "value": "y9R22L0U4jr7hmVT7aIfwBPBfhFoZNozuOeyXE1D1Cw="
+      },
+      "power": 100,
+      "name": "test-node-4"
+    }
+  ],
+  "app_hash": ""
+}
